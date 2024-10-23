@@ -1,0 +1,25 @@
+/** @format */
+
+body {
+  text-align: center;
+  background-color: #5c669b;
+  color: rgba(189, 135, 135, 0.082);
+}
+.container {
+  border: 10px solid aqua;
+  border-radius: 15px;
+  background-color: rgb(188, 178, 178);
+  color: white;
+}
+.head {
+  font-size: 2rem;
+  color: #198670;
+}
+li {
+  list-style: none;
+  padding-top: 10px;
+  font-size: 20px;
+}
+.week-1 {
+  display: none;
+}
